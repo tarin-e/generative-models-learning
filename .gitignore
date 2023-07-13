@@ -1,3 +1,6 @@
+# virtual environment
+gans-torch
+
 # all data
 *.csv
 *.DS_Store
