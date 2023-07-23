@@ -9,3 +9,4 @@ Todo:
 Resources:
 - https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html#data
 - https://www.kaggle.com/datasets/zalando-research/fashionmnist?select=fashion-mnist_train.csv
+- https://www.deepmind.com/blog/wavenet-a-generative-model-for-raw-audio
