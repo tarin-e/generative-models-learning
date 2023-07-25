@@ -6,7 +6,8 @@ gans/data
 gans/lightning_logs
 
 # virtual environment
-gans-torch
+gans-torch-env
+wavenet-env
 
 # all data
 *.csv
